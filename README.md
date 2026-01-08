@@ -1,4 +1,4 @@
-# SQLPatch-AI-Notifier 
+# SQLPatchFollower
 
 自動追蹤 SQL Server 的補丁更新，利用AZURE OPENAI統整複雜的更新資訊，並透過 Line Bot 即時推送到你的手機。
 
